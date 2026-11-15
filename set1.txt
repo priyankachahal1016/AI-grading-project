@@ -1,0 +1,6 @@
+
+Set 1 Rubric (Acid Rain / Replicate Experiment):
+Score 3: Identifies 3 or more distinct pieces of information needed to replicate the procedure (e.g., amount/volume of vinegar, specific type/brand of materials, sample dimensions/size, rinse duration, drying time).
+Score 2: Identifies 2 distinct replication requirements.
+Score 1: Identifies 1 replication requirement or partial relevant info.
+Score 0: Little or no relevant replication information.

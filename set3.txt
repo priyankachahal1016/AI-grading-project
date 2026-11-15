@@ -1,0 +1,5 @@
+
+Set 3 Rubric (English Reading / Animal Comparison):
+Score 2: Strong comparison of specialists (pandas/koalas) vs generalists/pythons with textual details and clear similarities/differences.
+Score 1: Basic or partial comparison between animals from the text with some understanding.
+Score 0: Limited or no relevant comparison or understanding.
