@@ -35,7 +35,7 @@ Iterative prompt engineering—introducing structured step-by-step reasoning (`C
 
 * **Bias Diagnostics:** Tracked mean score differences (leniency/severity bias) and Spearman rank correlations ($\rho$) between response word count and grading error to monitor and mitigate length bias.
 
-## 🛠️ Engineering & Pipeline Architecture
+##  Engineering & Pipeline Architecture
 
 1. **Stratified Sampling (`train_test_split`):** Extracts a balanced, reproducible sample of 300 responses stratified by human ground-truth scores (`Score1`) to preserve real-world score distributions.
 
@@ -106,7 +106,7 @@ Iterative prompt engineering—introducing structured step-by-step reasoning (`C
 
 Confusion matrices comparing human ground-truth ratings against AI rubric-guided predictions are automatically exported to `outputs/confusion_matrices.png`:
 
-## 🔮 Future Directions
+##  Future Directions
 
 * **Few-Shot Anchor Calibration:** Injecting 1–2 verified student anchor responses per score tier into the prompt context to align score boundaries closer to human raters.
 
